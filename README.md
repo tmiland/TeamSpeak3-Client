@@ -1,7 +1,7 @@
 TeamSpeak3-Client
 =================
 
-<img src="https://www.teamspeak.com/user/themes/teamspeak/images/brand/Stacked_BlueLight.svg" height="512" width="512">
+<img src="https://www.teamspeak.com/user/themes/teamspeak/images/brand/InLine_BlueLight.svg" height="137" width="455">
 
 TeamSpeak3 Client package for Debian/Ubuntu
 
