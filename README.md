@@ -1,7 +1,9 @@
 TeamSpeak3-Client
 =================
 
-TeamSpeak3 Client package for Debian
+TeamSpeak3 Client package for Debian/Ubuntu
+
+Tested and working on Ubuntu 18.10
 
 Forked from https://github.com/Dh0mp5eur/TeamSpeak3-Client
 
