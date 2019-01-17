@@ -1,6 +1,8 @@
 TeamSpeak3-Client
 =================
 
+<img src="https://www.teamspeak.com/user/themes/teamspeak/images/brand/Stacked_BlueLight.svg">
+
 TeamSpeak3 Client package for Debian/Ubuntu
 
 Tested and working on Ubuntu 18.10
