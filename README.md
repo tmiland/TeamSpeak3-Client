@@ -48,3 +48,5 @@ If you're having dependency issues, run:
 `sudo aptitude install libc++1 libc++abi1 libqt5sql5 libqt5sql5-sqlite libsrtp0`
 
 Alternatively download deb packages here: https://github.com/tmiland/TeamSpeak3-Client/releases
+
+Install instructions from: https://www.addictivetips.com/ubuntu-linux-tips/install-the-teamspeak-client-on-linux/
