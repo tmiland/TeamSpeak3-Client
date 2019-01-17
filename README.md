@@ -37,8 +37,6 @@ or
 
 `sudo dpkg -i teamspeak3-client_i386.deb`
 
-Each time a new version of the TeamSpeak 3 client is released, you may need to re-run this build process.
-
 Uninstall the TeamSpeak 3 client from Debian with:
 
 `sudo apt-get remove teamspeak3-client`
