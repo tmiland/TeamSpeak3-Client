@@ -46,3 +46,5 @@ Uninstall the TeamSpeak 3 client from Debian with:
 If you're having dependency issues, run:
 
 `sudo aptitude install libc++1 libc++abi1 libqt5sql5 libqt5sql5-sqlite libsrtp0`
+
+Alternatively download deb packages here: https://github.com/tmiland/TeamSpeak3-Client/releases
