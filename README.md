@@ -29,7 +29,7 @@ CD into the newly cloned git folder, and execute the build tool to generate a ne
 
 `sh package.sh`
 
-Package.sh will build both a 64bit and 32bit DEB packages.
+Package.sh will build a DEB package according to you Architecture Type.
 
 Use the dpkg command in terminal:
 
