@@ -1,3 +1,9 @@
 #!/bin/bash
-dpkg-deb --build amd64 teamspeak3-client_amd64.deb
-dpkg-deb --build i386 teamspeak3-client_i386.deb
+arch=`uname -m`
+if [ "$arch" == "x86_64" ]; then
+    arch="amd64"
+else
+    arch="x86"
+fi
+
+dpkg-deb --build $arch teamspeak3-client_$arch.deb
