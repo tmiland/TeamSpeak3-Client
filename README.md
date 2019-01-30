@@ -13,7 +13,7 @@ Install on Debian/Ubuntu
 
 Make sure you have the "menu" package:
 
-```bash
+```
 sudo apt-get install menu
 ```
 
