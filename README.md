@@ -39,7 +39,7 @@ cd TeamSpeak3-Client
 sh package.sh
 ```
 
-Package.sh will build a DEB package according to you Architecture Type.
+Package.sh will build a DEB package according to your Architecture Type.
 
 Use the dpkg command in terminal:
 
