@@ -11,24 +11,6 @@ Forked from https://github.com/Dh0mp5eur/TeamSpeak3-Client
 
 #### Install on Debian/Ubuntu
 
-### Repository
-
-```shell
-$ echo "deb https://deb.tmiland.com/debian stable main" | sudo tee /etc/apt/sources.list.d/tmiland.list
-```
-
-```shell
-$ sudo apt-key adv --keyserver hkps://keys.openpgp.org --recv-keys A9EA5FFA30697D15
-```
-
-```shell
-$ sudo apt update
-```
-
-```shell
-$ sudo apt install teamspeak3-client
-```
-
 Make sure you have the "menu" package:
 
 ```shell
