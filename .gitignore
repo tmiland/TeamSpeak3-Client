@@ -1,4 +1,4 @@
 # Packages .deb
-*.deb
+# *.deb
 package_both.sh
 check.sh
