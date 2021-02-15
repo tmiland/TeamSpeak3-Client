@@ -73,5 +73,5 @@ Install instructions from: https://www.addictivetips.com/ubuntu-linux-tips/insta
 Package can be upgrade by a simple command 
 
 ```shell
-grep -rl '3.3.2' * | xargs sed -i 's/3.3.2/3.5.6/g'
+grep -rl '3.3.2' * | xargs sed -i 's/3.3.2/3.5.3/g'
 ```
